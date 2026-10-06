@@ -216,16 +216,16 @@ html_content = """
             <div class="credentials-title">ผู้รับผิดชอบโครงงาน</div>
             <div class="credentials-grid">
                 <div class="credentials-label">ผู้เสนอโครงงาน:</div>
-                <div class="credentials-value">[นาย ณภัทร ภักดีพันธ์]</div>
+                <div class="credentials-value">นาย ณภัทร ภักดีพันธ์</div>
 
                 <div class="credentials-label">รหัสนักศึกษา:</div>
-                <div class="credentials-value">[6906032610552]</div>
+                <div class="credentials-value">6906032610552</div>
 
                 <div class="credentials-label">หลักสูตร/สาขา:</div>
                 <div class="credentials-value">คอมพิวเตอร์ช่วยออกเเบบเเละบริหารงานก่อสร้าง</div>
 
                 <div class="credentials-label">เสนออาจารย์:</div>
-                <div class="credentials-value">[อาจารย์ ดร.ณัฎฐพล เสาวนะ ]</div>
+                <div class="credentials-value">อาจารย์ ดร.ณัฎฐพล เสาวนะ </div>
             </div>
         </div>
     </header>
